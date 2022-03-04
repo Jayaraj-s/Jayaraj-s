@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jayaraj-s
 - 👀 I’m interested in creating some fun websites
 - 🌱 I’m currently learning  about APIs
-- 🤔 I know HTML , CSS ,BOOTSTRAP , JAVASCRIPT , MONGODB, REACTJS,JAVA..
+- 🤔 I know HTML , CSS ,BOOTSTRAP , JAVASCRIPT , MONGODB, REACT JS,JAVA..
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
