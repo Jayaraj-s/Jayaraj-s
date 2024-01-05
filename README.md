@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Jayaraj-s
-- 👀 I’m interested in creating some fun websites
-- 🌱 I’m currently learning  about APIs
-- 🤔 I know HTML , CSS ,BOOTSTRAP , JAVASCRIPT , MONGODB, REACT JS, EXPRESS JS,EJS ,FIREBASE ,JAVA..
+- 👀 I’m interested in creating websites and webapps
+- 🤔 I know C, JAVA< PYTHON< HTML , CSS ,BOOTSTRAP , JAVASCRIPT , MONGODB, REACT JS, EXPRESS JS,EJS ,FIREBASE..
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
